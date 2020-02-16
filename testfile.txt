@@ -1,3 +1,5 @@
 Akshay first git file
 This is edited under nano command
 Adding new line in the code for fun! :)
+Objective:
+1) Trying to perform add and commit operations in a single command
