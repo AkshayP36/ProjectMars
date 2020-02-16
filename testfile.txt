@@ -4,6 +4,8 @@ Objective:
 1) This is edited under nano command
 2) Trying to perform add and commit operations in a single command
 3) locating difference in file location between working directry and staging area.
+4) Adding an entire folder structure and a file with different extensions at eah folder level
+
 
 sample test1
 sample test2
