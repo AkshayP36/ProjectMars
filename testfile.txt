@@ -1,5 +1,2 @@
 Akshay first git file
-
-Deleting all the folder and files to run fresh codes.
-
 This is edited under nano command
