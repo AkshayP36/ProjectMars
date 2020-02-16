@@ -3,3 +3,6 @@ Adding new line in the code for fun! :)
 Objective:
 1) This is edited under nano command
 2) Trying to perform add and commit operations in a single command
+3) locating difference in file location between working directry and staging area.
+
+sample test1
