@@ -6,3 +6,4 @@ Objective:
 3) locating difference in file location between working directry and staging area.
 
 sample test1
+sample test2
