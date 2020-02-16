@@ -1,9 +1,5 @@
 Akshay first git file
 
-<<<<<<< HEAD
-Hey Rockstar!!
+Deleting all the folder and files to run fresh codes.
 
-=======
-Lets rock
->>>>>>> 129a4c01a095ea171e47d59753e3c79933534579
 This is edited under nano command
