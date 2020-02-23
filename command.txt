@@ -9,6 +9,7 @@ Objective:
 6) Deleting files
 7) Deleting tracked files
 8) Using file comparison tools
+9) Learning stashing of files.
 sample test1
 sample test2
 sample test3

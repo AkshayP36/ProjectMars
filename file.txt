@@ -1,1 +1,6 @@
 dummy file
+this file i will use to stash.
+
+Then i will made anc commit changes to file2.txt
+
+Then again look into this file.
