@@ -2,3 +2,4 @@ Checking file from remote to working directory
 Checking a branch
 Commiting changes from both branches
 adding new line to the branch
+this line in thisfile is part of learning stashing of files.
