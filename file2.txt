@@ -3,3 +3,4 @@ Checking a branch
 Commiting changes from both branches
 adding new line to the branch
 this line in thisfile is part of learning stashing of files.
+this is second file modified.
