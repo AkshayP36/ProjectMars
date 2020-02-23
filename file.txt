@@ -1,6 +1,6 @@
 dummy file
-this file i will use to stash.
+this file i will use to stash. :> (done)
 
-Then i will made anc commit changes to file2.txt
+Then i will made anc commit changes to file2.txt :> (done)
 
-Then again look into this file.
+Then again look into this file. (done)
