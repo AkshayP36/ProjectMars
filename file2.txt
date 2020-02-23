@@ -1,1 +1,3 @@
 Checking file from remote to working directory
+Checking a branch
+Commiting changes from both branches
