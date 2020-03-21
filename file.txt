@@ -1,7 +1,7 @@
 dummy file
 this file i will use to stash. :> (done)
 
-Then i will made anc commit changes to file2.txt :> (done)
+Then i will made and commit changes to file2.txt :> (done)
 
 Then again modify into this file. (done)
 _________________________
